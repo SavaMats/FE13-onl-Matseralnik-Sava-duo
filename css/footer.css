@@ -1,0 +1,151 @@
+.footer-top{
+    padding: 71px 0 88px 0;
+    background-color: #3a3e64;
+}
+
+.footer-top_wrapper{
+    min-width: 53%;
+    margin: 0 17.5% 0 25.6%;
+}
+.footer-top_context{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 -30px;
+}
+
+.footer-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+margin: 0 30px;
+}
+
+.footer-title{
+    color: #ffffff;
+    font-family: "Raleway", Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 21px;
+}
+
+.footer-text{
+opacity: 0.5;
+color: #ffffff;
+font-family: "Raleway", Arial, sans-serif;
+line-height: 22.5px;
+}
+
+.footer-top_context .location{
+    flex: 0 1 14%;
+    min-width: 100px;
+}
+
+
+
+ul.social_links li a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.25s ease 0.2s;
+}
+
+
+
+ul.social_links li .fab{
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+
+
+
+.social_links-footer{
+    display: flex;
+    align-items: center;
+}
+
+.social_links-footer li {
+    margin: 0px 2px;
+}
+.social_links-footer li a{
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 2px;
+}
+
+ul.social_links-footer li a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.25s ease 0.2s;
+}
+
+
+
+ul.social_links-footer li .fab{
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+.footer-item_share{
+    flex: 0 1 12%;
+    min-width: 130px;
+    margin: 0 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0 70px;
+    
+}
+
+.footer-item .location{
+    flex: 0 1 31%;
+    max-width: 100px;
+}
+
+.footer-item .about{
+    flex: 0 1 31%;
+    max-width: 257px;
+}
+
+
+.footer-bottom{
+    padding: 29px 0px;
+    background-color: #313454;
+}
+
+.copyright-top{
+    display: block;
+    text-align: center;
+    color: #808080;
+    font-family: "Raleway", Arial, sans-serif;
+    line-height: 22.5px;
+}
+.copyright-bottom{
+    display: block;
+    text-align: center;
+    color: #808080;
+    font-family: "Raleway", Arial, sans-serif;
+    line-height: 22.5px;
+}
+.footer-bottom .fa-heart{
+    color: #e84545;
+    margin: 0px 7px;
+}
+
+.author-link{
+    color: #fff;;
+    font-family: "Raleway", Arial, sans-serif;
+    line-height: 22.5px;
+}
